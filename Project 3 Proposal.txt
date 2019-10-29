@@ -1,0 +1,23 @@
+Using Machine Learning to Determine Benign or Malignant Breast Tumors
+By: Yujin Choi
+
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+(These are the same dataset, just from different websites.)
+
+
+I will use a ML to see if we can predict the malignancy of breast tumors based on
+the following tumor traits: radius, texture, perimeter, area, smoothness, compactness, 
+concavity, symmetry, and fractal dimension. Which factor has the most weight?
+
+I hope to have a webpage summarizing the data and graphs run on a local Python server.
+
+Will also be using jupyter notebook for the ML portion.
+	- Goal is classification: tumor is malignant or benign.
+	- Model will be trained on supervised data.
+
+Oct 19th: Clean data in Python or Amazon (looks like it's fairly cleaned already.)
+Oct 21st: Set up the ML/train/save model -> are their any perks to using TensorFlow for this?
+	Be sure to determine the accuracy and precision of the model. 
+Oct 23rd: Data exploration; are their specific factors of a tumor that determine malignancy? 
+Oct 26th: Create an aesthetic visualization of the data. 

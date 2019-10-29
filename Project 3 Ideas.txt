@@ -1,0 +1,8 @@
+Predicting benign or malignant tumors.
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+Diabetes
+https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
+
+Computational Biology Datasets!!
+https://github.com/blengerich/CompBioDatasetsForMachineLearning
